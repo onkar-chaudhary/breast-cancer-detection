@@ -32,4 +32,4 @@ Each cell nucleus in the dataset has 10 computed features, each with mean, stand
 
 - `data.csv`: Contains the data files.
 - `breast_cancer.ipynb`: Contains Jupyter notebooks for data exploration, preprocessing, and modeling.
-- `pipeline_breast_cancer.joblib`: Stores the trained model for deployment.
+- `pipeline_breast_cancer_model.joblib`: Stores the trained model for deployment.
